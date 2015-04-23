@@ -1,0 +1,53 @@
+{
+  "name": "node-dandelion",
+  "description": "A Dandelion.eu JSON Web Service Client",
+  "keywords": [
+    "dandelion",
+    "semantic",
+    "analysis",
+    "big data",
+    "txtsim",
+    "api"
+  ],
+  "version": "0.1.0",
+  "homepage": "http://www.jeremy-albuixech.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/albi34/node-dandelion.git"
+  },
+  "author": {
+    "name": "Jérémy Albuixech",
+    "email": "jeremy.albuixech@gmail.com",
+    "url": "http://www.jeremy-albuixech.com/"
+  },
+  "contributors": [
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "request": "1.9.x"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  },
+  "scripts": {
+  },
+  "engines": [
+    "node >=0.4.0"
+  ],
+  "main": "./lib/node-dandelion",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/albi34/node-dandelion/blob/master/LICENSE"
+    }
+  ],
+  "readme": "A nodejs client for the Dandelion.eu API",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/albi34/node-dandelion/issues"
+  },
+  "_id": "node-dandelion@0.1.0",
+  "_from": "node-dandelion@^0.1.0"
+}
