@@ -9,7 +9,7 @@
     "txtsim",
     "api"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://www.jeremy-albuixech.com",
   "repository": {
     "type": "git",
@@ -29,7 +29,6 @@
     "request": "1.9.x"
   },
   "devDependencies": {
-    "mocha": "~1.15.1"
   },
   "scripts": {
   },
@@ -48,6 +47,6 @@
   "bugs": {
     "url": "https://github.com/albi34/node-dandelion/issues"
   },
-  "_id": "node-dandelion@0.1.0",
-  "_from": "node-dandelion@^0.1.0"
+  "_id": "node-dandelion@0.1.1",
+  "_from": "node-dandelion@^0.1.1"
 }
