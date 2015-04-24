@@ -1,6 +1,6 @@
 {
   "name": "node-dandelion",
-  "description": "A Dandelion.eu JSON Web Service Client",
+  "description": "A nodejs client for the Dandelion.eu API",
   "keywords": [
     "dandelion",
     "semantic",
@@ -9,8 +9,8 @@
     "txtsim",
     "api"
   ],
-  "version": "0.1.1",
-  "homepage": "http://www.jeremy-albuixech.com",
+  "version": "0.1.2",
+  "homepage": "http://jeremy-albuixech.com/node-dandelion",
   "repository": {
     "type": "git",
     "url": "git://github.com/albi34/node-dandelion.git"
@@ -47,6 +47,6 @@
   "bugs": {
     "url": "https://github.com/albi34/node-dandelion/issues"
   },
-  "_id": "node-dandelion@0.1.1",
-  "_from": "node-dandelion@^0.1.1"
+  "_id": "node-dandelion@0.1.2",
+  "_from": "node-dandelion@^0.1.2"
 }
