@@ -9,7 +9,7 @@
     "txtsim",
     "api"
   ],
-  "version": "0.1.2",
+  "version": "1.0",
   "homepage": "http://jeremy-albuixech.com/node-dandelion",
   "repository": {
     "type": "git",
@@ -47,6 +47,6 @@
   "bugs": {
     "url": "https://github.com/albi34/node-dandelion/issues"
   },
-  "_id": "node-dandelion@0.1.2",
-  "_from": "node-dandelion@^0.1.2"
+  "_id": "node-dandelion@1.0",
+  "_from": "node-dandelion@^1.0"
 }
