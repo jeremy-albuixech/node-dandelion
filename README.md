@@ -5,7 +5,7 @@ Bring the powerful text analysis tools from Dandelion.eu to your NodeJs apps.
 
 This client is a work in progress.
 
-As of v1.0, the main endpoints of Dandelion.eu are featured:
+As of v1.0.0, the main endpoints of Dandelion.eu are featured:
 - Txt-Sim: dandelion.txtSim(obj, callback)
 - Txt-Nex: dandelion.txtNex(obj, callback)
 - Txt-Cl: dandelion.txtCl(obj, callback)
