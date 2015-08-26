@@ -1,15 +1,15 @@
 # node-dandelion
-A nodejs client for the Dandelion.eu API.
+A nodejs client for the Dandelion API.
 
-Bring the powerful text analysis tools from Dandelion.eu to your NodeJs apps.
+Bring the powerful text analysis tools from Dandelion API to your NodeJs apps.
 
 This client is a work in progress.
 
-As of v1.0.0, the main endpoints of Dandelion.eu are featured:
-- Txt-Sim: dandelion.txtSim(obj, callback)
-- Txt-Nex: dandelion.txtNex(obj, callback)
-- Txt-Cl: dandelion.txtCl(obj, callback)
-- Txt-Li: dandelion.txtLi(obj, callback)
+As of v1.0.0, the following endpoints of Dandelion API are featured:
+- Text Similarity API: dandelion.txtSim(obj, callback)
+- Entity Extraction API: dandelion.txtNex(obj, callback)
+- Text Classification API: dandelion.txtCl(obj, callback)
+- Language Detection API: dandelion.txtLi(obj, callback)
 
 The POST endpoints are not implemented yet.
 

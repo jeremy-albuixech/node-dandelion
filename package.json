@@ -1,6 +1,6 @@
 {
   "name": "node-dandelion",
-  "description": "A nodejs client for the Dandelion.eu API",
+  "description": "A nodejs client for the Dandelion API",
   "keywords": [
     "dandelion",
     "semantic",
@@ -9,7 +9,7 @@
     "txtsim",
     "api"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "http://jeremy-albuixech.com/node-dandelion",
   "repository": {
     "type": "git",
@@ -42,11 +42,11 @@
       "url": "https://github.com/albi34/node-dandelion/blob/master/LICENSE"
     }
   ],
-  "readme": "A nodejs client for the Dandelion.eu API",
+  "readme": "A nodejs client for the Dandelion API",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/albi34/node-dandelion/issues"
   },
-  "_id": "node-dandelion@1.0.1",
-  "_from": "node-dandelion@^1.0.1"
+  "_id": "node-dandelion@1.0.2",
+  "_from": "node-dandelion@^1.0.2"
 }
