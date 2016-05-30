@@ -109,7 +109,9 @@ Check the full reference here: https://dandelion.eu/docs/api/datatxt/li/v1/
 var dandelion = require("node-dandelion");
 dandelion.configure({
   "app_key":"YOUR_APP_KEY",
-  "app_id":"YOUR_APP_ID"
+  "app_id":"YOUR_APP_ID",
+  // you can comment app_key and app_id if you are using the new token authentication
+  "token":"YOUR_TOKEN"
 });
 
 // TXT SIM: Check for the similitudes between the two strings.
