@@ -17,6 +17,16 @@ The POST endpoints are not implemented yet.
 # Installation
 ###  npm install node-dandelion
 
+# Configuration
+```javascript
+var dandelion = require("node-dandelion");
+dandelion.configure({
+  "app_id":"YOUR_APP_ID",
+  "app_key":"YOUR_APP_KEY"
+});
+```
+**Note:** the new API authentication mechanism provides only token rather than app_id and app_key, if you are using it use your API token for both app_id and app_key parameters.
+
 # Parameters:
 ## TXT-SIM = Check for similarities between two texts.
 ```javascript
