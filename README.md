@@ -15,7 +15,7 @@ The POST endpoints are not implemented yet.
 
 
 # Installation
-###  npm install node-dandelion
+`npm install node-dandelion`
 
 # Parameters:
 ## TXT-SIM = Check for similarities between two texts.
